@@ -1,18 +1,19 @@
 # Jianyao Ma | 马健耀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Agent+%2F+RAG+%2F+MCP;Computer+Vision+%2F+Change+Detection;Java+%2F+Python+%2F+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Agent+%2F+RAG+%2F+MCP;Computer+Vision+%26+Change+Detection;Java+%2F+Python+%2F+Full-stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HazyStar&style=flat-square&color=58a6ff" alt="Profile views" />
-  <a href="https://github.com/HazyStar"><img src="https://img.shields.io/github/followers/HazyStar?style=flat-square&label=Followers&color=58a6ff" alt="Followers" /></a>
-  <a href="https://github.com/HazyStar/portfolio"><img src="https://img.shields.io/badge/Portfolio-HazyStar%2Fportfolio-58a6ff?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://github.com/HazyStar/portfolio"><img src="https://img.shields.io/badge/Portfolio-HazyStar%2Fportfolio-58a6ff?style=flat-square&logo=github" alt="Portfolio" /></a>
+  <a href="https://www.zhimiaojob.com"><img src="https://img.shields.io/badge/Product-zhimiaojob.com-1f6feb?style=flat-square" alt="Product" /></a>
+  <a href="https://www.cnblogs.com/hazy-star"><img src="https://img.shields.io/badge/Blog-cnblogs-2b7a0b?style=flat-square" alt="Blog" /></a>
 </p>
 
-2027 届 **信息与通信工程** 硕士，关注 **AI Agent、RAG、计算机视觉** 与企业级软件开发。
+2027 届信息与通信工程硕士，关注 **AI Agent、RAG、计算机视觉** 与企业级软件开发。
 
-多数商业 / 实验室横向 / 在研项目源码保持私有（知识产权与保密要求）。公开侧通过 [**作品集仓库**](https://github.com/HazyStar/portfolio) 提供脱敏案例说明与可演示产品链接。
+主要仓库因产品、实验室横向项目与知识产权要求保持私有；公开侧提供 [作品集说明](https://github.com/HazyStar/portfolio) 与可访问产品/博客。
 
 ### Focus
 
@@ -22,22 +23,24 @@
 
 ### Links
 
-- 📦 Portfolio: https://github.com/HazyStar/portfolio
-- 🚀 Product（职喵）: https://www.zhimiaojob.com
-- ✍️ Blog: https://www.cnblogs.com/hazy-star
-- ✉️ Email: mofengshengxiao@gmail.com
+- Blog: https://www.cnblogs.com/hazy-star
+- Product（职喵）: https://www.zhimiaojob.com
+- Portfolio: https://github.com/HazyStar/portfolio
 
-### Tech
+### Selected work (sanitized)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,vue,nodejs,spring,pytorch,docker,mysql,redis,linux,git" alt="Skills" />
-</p>
+| Project | Role | Note |
+|---------|------|------|
+| [Catcher / 职喵](https://github.com/HazyStar/portfolio/tree/main/catcher) | Independent product | LangGraph Agent · RAG · Prompt ops |
+| [FinClaw](https://github.com/HazyStar/portfolio/tree/main/finclaw) | Platform engineering | Financial data platform (IP private) |
+| [Change Detection](https://github.com/HazyStar/portfolio/tree/main/change-detection) | Research / CV | Training-free RS change detection |
+| [ICIM](https://github.com/HazyStar/portfolio/tree/main/icim) | Lab horizontal | Insurance compliance platform |
 
-### Stats
+### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HazyStar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazyStar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HazyStar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazyStar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ### Contribution snake
@@ -50,4 +53,4 @@
 
 ---
 
-<p align="center">私有仓库贡献可在 Settings → Public profile → Contributions & activity 中开启展示（不暴露仓库名与代码）。</p>
+<p align="center">源码因知识产权 / 项目保密要求不公开；可提供在线演示、脱敏架构说明与技术文档。</p>
