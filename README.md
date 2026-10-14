@@ -1,4 +1,4 @@
-# Jianyao Ma | 马健耀
+# Jianyao Ma
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Agent+%7C+RAG+%7C+Computer+Vision;Java+%7C+Python+%7C+Full-Stack;Building+useful+AI+products" alt="Typing SVG" />
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=HazyStar&style=flat-square&color=58a6ff" alt="Profile views" />
 </p>
 
-2027 届信息与通信工程硕士，关注 **AI Agent、RAG、计算机视觉** 与企业级软件开发。  
+2027 届信息与通信工程硕士，关注 **AI Agent、RAG、计算机视觉** 与企业级软件开发。
 主要工程代码因商业产品 / 实验室横向项目 / 知识产权要求保持私有；公开侧提供 [脱敏作品集](https://github.com/HazyStar/portfolio) 与可访问的产品演示。
 
 ### Focus
@@ -51,7 +51,7 @@
 <details>
 <summary>Note on private repositories</summary>
 
-Many of my repositories are private (commercial products, lab collaboration projects, unpublished research).  
+Many of my repositories are private (commercial products, lab collaboration projects, unpublished research).
 I enable private contribution counts on my profile when possible. For project details, see the desensitized write-ups in [`HazyStar/portfolio`](https://github.com/HazyStar/portfolio) — **source code is not published**.
 
 </details>
