@@ -1,4 +1,4 @@
-﻿# Jianyao Ma
+# Jianyao Ma
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+Spark+Agent;China+LLM+Coding+Harness;AI+Agent+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
